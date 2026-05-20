@@ -1,4 +1,4 @@
-# Hi, I'm Luca Gabriel Crăciun 👋
+# Hi, I'm Luca 👋
 ### AI Automation & Backend Engineer 🚀
 
 I build portfolio-grade, production-ready AI orchestration systems, deterministic RAG pipelines, and automated data architectures. My engineering philosophy centers on **safety-first automation, multi-agent governance, and asynchronous performance**—turning unpredictable LLM workflows into reliable enterprise solutions.
